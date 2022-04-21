@@ -1,0 +1,28 @@
+#chapter_1
+{
+    color: rgb(141, 143, 46);
+}
+.text-start
+{
+    font-family: "Times New Roman" ,serif;
+    color: rgb(96, 96, 110);
+}
+body
+{
+    background: black;
+}
+.text-tatooine
+{
+    font-family: "Times New Roman" ,serif;
+    color: rgb(96, 96, 110);
+    display: inline-block;
+    width: 48%;
+}
+.tatooine
+{
+    width: 48%;
+}
+h2
+{
+    color: rgb(96, 96, 110);;
+}
