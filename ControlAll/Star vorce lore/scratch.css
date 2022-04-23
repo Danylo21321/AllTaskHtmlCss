@@ -1,0 +1,51 @@
+#chapter_1
+{
+    color: rgb(141, 143, 46);
+}
+.text-start
+{
+    font-family: "Times New Roman" ,serif;
+    color: rgb(96, 96, 110);
+}
+body
+{
+    background-image: url("./image/img.jpg");
+}
+.text-tatooine
+{
+    color: rgb(96, 96, 110);
+    display: inline-block;
+    width: 48%;
+}
+.tatooine
+{
+    width: 48%;
+}
+h2
+{
+    color: rgb(96, 96, 110);;
+}
+
+span
+{
+    font-family:"Lato-BlackItalic", sans-serif;
+    url("./style/Lato-BlackItalic.ttf");
+}
+
+.tatooine1
+{
+    text-align: center;
+}
+.start
+{
+    text-align: center;
+}
+span
+{
+    line-height: 1.5em;
+}
+.text-start
+{
+    font-family:"Lato-BlackItalic", sans-serif;
+url("./style/Lato-BlackItalic.ttf");
+}
