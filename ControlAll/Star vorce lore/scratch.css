@@ -27,6 +27,14 @@ body
 {
     width: 48%;
 }
+.big-image-tatooine
+{
+    width: 60%;
+}
+.small-images-tatooine
+{
+    width: 25%;
+}
 h2
 {
     color: rgb(96, 96, 110);;
@@ -35,12 +43,11 @@ h2
 span
 {
     font-family:"Lato-BlackItalic", sans-serif;
-    url("./style/Lato-BlackItalic.ttf");
+url("./style/Lato-BlackItalic.ttf");
 }
 
 .tatooine1
 {
-    width: 890px;
     width: 789px;
     text-align: center;
 }
@@ -56,12 +63,12 @@ span
 {
 
     font-family:"Lato-BlackItalic", sans-serif;
-    url("./style/Lato-BlackItalic.ttf");
+url("./style/Lato-BlackItalic.ttf");
 }
 div
 {
     font-family:"Lato-BlackItalic", sans-serif;
-    url("./style/Lato-BlackItalic.ttf");
+url("./style/Lato-BlackItalic.ttf");
 }
 .cloud-city
 {
@@ -91,12 +98,19 @@ div
 }
 .cloudCityImage
 {
-    width: 1000px;
-    width: 789px;
+    display: inline;
+    width: 550px;
 }
 .image-cloud-city
 {
-    display: block;
+    display: inline;
     margin-right:1000px;
     max-width: border-box;
 }
+.cloudCityImage1
+{
+    display: inline;
+    width: 570px;
+    max-width: border-box;
+}
+
