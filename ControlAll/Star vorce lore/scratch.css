@@ -1,11 +1,16 @@
+
+
 #chapter_1
 {
     color: rgb(141, 143, 46);
 }
 .text-start
 {
-    font-family: "Times New Roman" ,serif;
-    color: rgb(96, 96, 110);
+    background: rgba(54, 79, 208, 0.32);
+    display: inline-block;
+    border-radius: 20px;
+    /*color: rgb(96, 96, 110);*/
+    color: black;
 }
 body
 {
@@ -13,8 +18,10 @@ body
 }
 .text-tatooine
 {
+    background: rgb(208, 218, 123);
     color: rgb(96, 96, 110);
     display: inline-block;
+    border-radius: 20px;
     width: 48%;
 }
 .tatooine
@@ -34,6 +41,8 @@ span
 
 .tatooine1
 {
+    width: 890px;
+    width: 789px;
     text-align: center;
 }
 .start
@@ -48,4 +57,22 @@ span
 {
     font-family:"Lato-BlackItalic", sans-serif;
 url("./style/Lato-BlackItalic.ttf");
+}
+div
+{
+    font-family:"Lato-BlackItalic", sans-serif;
+    url("./style/Lato-BlackItalic.ttf");
+}
+.cloud-city
+{
+    width: 500px;
+    display: inline-block;
+    color: slategray;
+    background: aqua;
+    border-radius: 20px;
+}
+
+.chapter2
+{
+    text-align: right;
 }
