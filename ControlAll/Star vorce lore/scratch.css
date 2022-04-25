@@ -43,14 +43,9 @@ h2
 span
 {
     font-family:"Lato-BlackItalic", sans-serif;
-url("./style/Lato-BlackItalic.ttf");
+    url("./style/Lato-BlackItalic.ttf");
 }
 
-.tatooine1
-{
-    width: 789px;
-    text-align: center;
-}
 .start
 {
     text-align: center;
@@ -112,5 +107,34 @@ url("./style/Lato-BlackItalic.ttf");
     display: inline;
     width: 570px;
     max-width: border-box;
+}
+
+.chapter3
+{
+    display: inline-block;
+}
+.crait
+{
+    margin-left: 380px;
+    background: slategray;
+    color: black;
+    border-radius: 20px;
+    display: inline-block;
+    width: 65%;
+}
+.crait1
+{
+    margin-left: 380px;
+    background: slategray;
+    color: black;
+    border-radius: 20px;
+    display: inline-block;
+    width: 65%;
+}
+
+.crait-imag1
+{
+    display: inline;
+    width: 29%;
 }
 
