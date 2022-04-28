@@ -1,0 +1,48 @@
+.tatooine-table{
+    font-family: "Lato-BlackItalic", sans-serif;
+    text-align: left;
+    border-spacing: 5px;
+    border-collapse: separate;
+    background-color: indianred;
+    color: black;
+    border: 15px solid darkgray;
+    border-radius: 15px;
+}
+.item-tatooine td{
+    background: lightyellow;
+    padding: 15px;
+}
+.cloud-city-table{
+    font-family: "Lato-BlackItalic", sans-serif;
+    text-align: left;
+    border-radius: 15px;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background-color: royalblue;
+    color: darkgray;
+    border: 15px solid blue;
+
+}
+.item-cloud-city td{
+    background-color: aqua;
+    padding: 15px;
+}
+
+.crait-table{
+    font-family: "Lato-BlackItalic", sans-serif;
+    text-align: left;
+    border-spacing: 5px;
+    border-collapse: separate;
+    border-radius: 15px;
+    background-color: darkgray;
+    color: black;
+    border: 15px solid skyblue;
+}
+.item-crait td{
+    background: indianred;
+    padding: 10px;
+}
+caption
+{
+    color: cornflowerblue;
+}
