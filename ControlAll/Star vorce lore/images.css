@@ -1,0 +1,29 @@
+.big-image-tatooine {
+    width: 60%;
+}
+
+.small-images-tatooine {
+    width: 25%;
+}
+
+.images-tatooine{
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    border: 20px solid chartreuse;
+    border-radius: 20px;
+}
+.images-tatooine1{
+    width: 400px;
+    height: 400px;
+    border: 20px solid purple;
+    border-radius: 20px;
+    margin: 20px;
+}
+.images-tatooine2{
+    width: 400px;
+    height: 400px;
+    border: 20px solid red;
+    border-radius: 20px;
+    margin: 20px;
+}
